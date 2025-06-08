@@ -10,6 +10,6 @@ This is a simple project that automates installing Kali NetHunter Rootless in Te
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/YOUR_USERNAME/kali-nethunter-launcher.git
+git clone https://github.com/Leo201409/kali-nethunter-launcher.git
 cd kali-nethunter-launcher
 bash install.sh
